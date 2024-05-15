@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1KmPytWzwHsVsJMjH1zY52cUxmNqyn+R4DLVbE8v3sHFXHSGVp6MouuPqFsMScfqulWARZRPYBKvkttst2abg==",
+  "success": true,
+  "projectFilePath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/3. Infraestructure/3. Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/lordmathi2741/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/lordmathi2741/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

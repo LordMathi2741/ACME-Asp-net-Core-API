@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "bX08C8pYFcv06b6nsp2tQg/JCC/GbNaU0GwD89Sx9SteJBhU2X8Ya+8QKxPxBtgjvHGi81NzuaoNye4tbbRC/Q==",
+  "success": true,
+  "projectFilePath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /2. Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/lordmathi2741/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/lordmathi2741/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/lordmathi2741/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/lordmathi2741/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/lordmathi2741/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/lordmathi2741/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/lordmathi2741/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/lordmathi2741/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

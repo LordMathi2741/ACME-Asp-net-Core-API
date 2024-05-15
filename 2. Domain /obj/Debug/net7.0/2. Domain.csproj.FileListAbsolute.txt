@@ -1,0 +1,14 @@
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /bin/Debug/net7.0/2. Domain.deps.json
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /bin/Debug/net7.0/2. Domain.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /bin/Debug/net7.0/2. Domain.pdb
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/2. Domain.csproj.AssemblyReference.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/2. Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/2. Domain.AssemblyInfoInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/2. Domain.AssemblyInfo.cs
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/2. Domain.csproj.CoreCompileInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/2. Domain.sourcelink.json
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/2. Domain.csproj.CopyComplete
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/2. Domain.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/refint/2. Domain.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/2. Domain.pdb
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/LearningCenter_2/2. Domain /obj/Debug/net7.0/ref/2. Domain.dll
